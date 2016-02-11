@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("aj cia bsk pakeiciau")
+        print("dar cia sudu kazkokiu")
+        print("dadejau kazka")
     }
 
     override func didReceiveMemoryWarning() {
